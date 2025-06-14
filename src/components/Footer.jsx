@@ -11,12 +11,9 @@ const Footer = () => {
             <p>Open: 05:00 PM - 12:00 AM</p>
           </div>
         </div>
-        <div className="banner">
-          <div className="left">
-            <p>Developed By Provat and Animesh</p>
-          </div>
+        <div className="banner"></div>
           <div className="right">
-            <p>All Rights Reserved By Provat.</p>
+            <p>All Rights Reserved By @rahul.</p>
           </div>
         </div>
       </div>
